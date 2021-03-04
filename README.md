@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Bastiaan Jansen and I am a Software Engineering student at Hogeschool Leiden in The Netherlands.
+
 <!--
 **BastiaanJansen/BastiaanJansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
