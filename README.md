@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bastiaan Jansen and I am a Software Engineering student at Hogeschool Leiden in The Netherlands. In 2018, I have created an online platform called [Qualityboard](https://www.qualityboard.nl/) in collaboration with my old high school focused on improving communication with colleagues. 
+My name is Bastiaan Jansen and I am a Software Engineering student at Hogeschool Leiden in The Netherlands. 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
