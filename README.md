@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bastiaan Jansen and I am a Software Engineering student at Hogeschool Leiden in The Netherlands. 
+My name is Bastiaan Jansen and I am a Software Engineering student at University of Applied Sciences Leiden in The Netherlands. 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
