@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/BastiaanJansen/OTP-Java/pull/37) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-2. 💪 Opened PR [#37](https://github.com/BastiaanJansen/OTP-Java/pull/37) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-3. 🗣 Commented on [#36](https://github.com/BastiaanJansen/OTP-Java/issues/36) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-4. 🗣 Commented on [#36](https://github.com/BastiaanJansen/OTP-Java/issues/36) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-5. 💪 Opened PR [#9](https://github.com/pditommaso/awesome-java/pull/9) in [pditommaso/awesome-java](https://github.com/pditommaso/awesome-java)
+1. ❗️ Closed issue [#36](https://github.com/BastiaanJansen/OTP-Java/issues/36) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+2. 🗣 Commented on [#36](https://github.com/BastiaanJansen/OTP-Java/issues/36) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+3. 🎉 Merged PR [#37](https://github.com/BastiaanJansen/OTP-Java/pull/37) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+4. 💪 Opened PR [#37](https://github.com/BastiaanJansen/OTP-Java/pull/37) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+5. 🗣 Commented on [#36](https://github.com/BastiaanJansen/OTP-Java/issues/36) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 <!--END_SECTION:activity-->
 
 <!--
