@@ -4,8 +4,8 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/freearhey/vue2-filters/pull/101) in [freearhey/vue2-filters](https://github.com/freearhey/vue2-filters)
-2. 🎉 Merged PR [#1](https://github.com/BastiaanJansen/Toast-Swift/pull/1) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+1. 💪 Opened PR [#39](https://github.com/BastiaanJansen/OTP-Java/pull/39) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+2. 💪 Opened PR [#101](https://github.com/freearhey/vue2-filters/pull/101) in [freearhey/vue2-filters](https://github.com/freearhey/vue2-filters)
 3. 💪 Opened PR [#1](https://github.com/BastiaanJansen/Toast-Swift/pull/1) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
 4. 🎉 Merged PR [#6](https://github.com/BastiaanJansen/IPRWC-API/pull/6) in [BastiaanJansen/IPRWC-API](https://github.com/BastiaanJansen/IPRWC-API)
 5. 🎉 Merged PR [#5](https://github.com/BastiaanJansen/IPRWC-API/pull/5) in [BastiaanJansen/IPRWC-API](https://github.com/BastiaanJansen/IPRWC-API)
