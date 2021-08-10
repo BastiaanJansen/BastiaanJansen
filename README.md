@@ -6,9 +6,9 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 2. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-3. ❗️ Closed issue [#45](https://github.com/BastiaanJansen/OTP-Java/issues/45) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-4. 🎉 Merged PR [#7](https://github.com/BastiaanJansen/IPRWC-API/pull/7) in [BastiaanJansen/IPRWC-API](https://github.com/BastiaanJansen/IPRWC-API)
-5. 🗣 Commented on [#45](https://github.com/BastiaanJansen/OTP-Java/issues/45) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+3. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+4. ❗️ Closed issue [#45](https://github.com/BastiaanJansen/OTP-Java/issues/45) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+5. 🎉 Merged PR [#7](https://github.com/BastiaanJansen/IPRWC-API/pull/7) in [BastiaanJansen/IPRWC-API](https://github.com/BastiaanJansen/IPRWC-API)
 <!--END_SECTION:activity-->
 
 <!--
