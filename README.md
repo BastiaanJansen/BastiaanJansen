@@ -8,7 +8,7 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 2. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 3. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 4. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-5. ❗️ Closed issue [#45](https://github.com/BastiaanJansen/OTP-Java/issues/45) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+5. 🗣 Commented on [#47](https://github.com/BastiaanJansen/OTP-Java/issues/47) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 <!--END_SECTION:activity-->
 
 <!--
