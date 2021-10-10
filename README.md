@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/BastiaanJansen/OTP-Java/issues/48) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-2. 🎉 Merged PR [#17](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/17) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
-3. 💪 Opened PR [#17](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/17) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
-4. 🎉 Merged PR [#16](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/16) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
-5. 💪 Opened PR [#16](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/16) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
+1. ❗️ Closed issue [#48](https://github.com/BastiaanJansen/OTP-Java/issues/48) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+2. 🗣 Commented on [#48](https://github.com/BastiaanJansen/OTP-Java/issues/48) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+3. 🎉 Merged PR [#17](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/17) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
+4. 💪 Opened PR [#17](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/17) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
+5. 🎉 Merged PR [#16](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/16) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
 <!--END_SECTION:activity-->
 
 <!--
