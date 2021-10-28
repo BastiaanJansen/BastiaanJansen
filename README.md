@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/BastiaanJansen/Toast-Swift/issues/2) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
-2. 💪 Opened PR [#1717](https://github.com/matteocrippa/awesome-swift/pull/1717) in [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-3. ❗️ Closed issue [#48](https://github.com/BastiaanJansen/OTP-Java/issues/48) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-4. 🗣 Commented on [#48](https://github.com/BastiaanJansen/OTP-Java/issues/48) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-5. 🎉 Merged PR [#17](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures/pull/17) in [BastiaanJansen/Algorithms-And-Data-Structures](https://github.com/BastiaanJansen/Algorithms-And-Data-Structures)
+1. 🗣 Commented on [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+2. 🗣 Commented on [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+3. 🗣 Commented on [#2](https://github.com/BastiaanJansen/Toast-Swift/issues/2) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+4. 💪 Opened PR [#1717](https://github.com/matteocrippa/awesome-swift/pull/1717) in [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+5. ❗️ Closed issue [#48](https://github.com/BastiaanJansen/OTP-Java/issues/48) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 <!--END_SECTION:activity-->
 
 <!--
