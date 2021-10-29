@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
-2. 🗣 Commented on [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+1. 🗣 Commented on [#4](https://github.com/BastiaanJansen/Toast-Swift/issues/4) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+2. ❗️ Closed issue [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
 3. 🗣 Commented on [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
-4. 🗣 Commented on [#2](https://github.com/BastiaanJansen/Toast-Swift/issues/2) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
-5. 💪 Opened PR [#1717](https://github.com/matteocrippa/awesome-swift/pull/1717) in [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+4. 🗣 Commented on [#3](https://github.com/BastiaanJansen/Toast-Swift/issues/3) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
+5. 🗣 Commented on [#2](https://github.com/BastiaanJansen/Toast-Swift/issues/2) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
 <!--END_SECTION:activity-->
 
 <!--
