@@ -4,8 +4,8 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/BastiaanJansen/OTP-Java/pull/51) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
-2. 💪 Opened PR [#51](https://github.com/BastiaanJansen/OTP-Java/pull/51) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+1. ❌ Closed PR [#53](https://github.com/BastiaanJansen/otp-java/pull/53) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
+2. 💪 Opened PR [#53](https://github.com/BastiaanJansen/otp-java/pull/53) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
 3. 🗣 Commented on [#7](https://github.com/BastiaanJansen/Toast-Swift/issues/7) in [BastiaanJansen/Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift)
 4. ❗️ Closed issue [#50](https://github.com/BastiaanJansen/OTP-Java/issues/50) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 5. 🗣 Commented on [#50](https://github.com/BastiaanJansen/OTP-Java/issues/50) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
