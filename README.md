@@ -4,10 +4,10 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/BastiaanJansen/uri-builder-java/pull/1) in [BastiaanJansen/uri-builder-java](https://github.com/BastiaanJansen/uri-builder-java)
-2. 💪 Opened PR [#2](https://github.com/BastiaanJansen/jwt-java/pull/2) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
-3. 💪 Opened PR [#53](https://github.com/BastiaanJansen/otp-java/pull/53) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
-4. ❗️ Closed issue [#50](https://github.com/BastiaanJansen/OTP-Java/issues/50) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
+1. 🎉 Merged PR [#2](https://github.com/BastiaanJansen/jwt-java/pull/2) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
+2. 🎉 Merged PR [#1](https://github.com/BastiaanJansen/uri-builder-java/pull/1) in [BastiaanJansen/uri-builder-java](https://github.com/BastiaanJansen/uri-builder-java)
+3. 💪 Opened PR [#1](https://github.com/BastiaanJansen/uri-builder-java/pull/1) in [BastiaanJansen/uri-builder-java](https://github.com/BastiaanJansen/uri-builder-java)
+4. 💪 Opened PR [#2](https://github.com/BastiaanJansen/jwt-java/pull/2) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
 5. 🗣 Commented on [#50](https://github.com/BastiaanJansen/OTP-Java/issues/50) in [BastiaanJansen/OTP-Java](https://github.com/BastiaanJansen/OTP-Java)
 <!--END_SECTION:activity-->
 
