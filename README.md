@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#966](https://github.com/akullpp/awesome-java/pull/966) in [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
-2. ❗️ Opened issue [#55](https://github.com/BastiaanJansen/otp-java/issues/55) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
-3. 💪 Opened PR [#54](https://github.com/BastiaanJansen/otp-java/pull/54) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
-4. 🎉 Merged PR [#2](https://github.com/BastiaanJansen/jwt-java/pull/2) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
-5. 🎉 Merged PR [#1](https://github.com/BastiaanJansen/uri-builder-java/pull/1) in [BastiaanJansen/uri-builder-java](https://github.com/BastiaanJansen/uri-builder-java)
+1. 🎉 Merged PR [#54](https://github.com/BastiaanJansen/otp-java/pull/54) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
+2. ❗️ Closed issue [#55](https://github.com/BastiaanJansen/otp-java/issues/55) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
+3. 💪 Opened PR [#966](https://github.com/akullpp/awesome-java/pull/966) in [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+4. ❗️ Opened issue [#55](https://github.com/BastiaanJansen/otp-java/issues/55) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
+5. 💪 Opened PR [#54](https://github.com/BastiaanJansen/otp-java/pull/54) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
 <!--END_SECTION:activity-->
 
 <!--
