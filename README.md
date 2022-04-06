@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/BastiaanJansen/simple-vue-camera/pull/6) in [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera)
-2. 🎉 Merged PR [#4](https://github.com/BastiaanJansen/jwt-java/pull/4) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
-3. 💪 Opened PR [#4](https://github.com/BastiaanJansen/jwt-java/pull/4) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
-4. 🎉 Merged PR [#3](https://github.com/BastiaanJansen/jwt-java/pull/3) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
-5. 💪 Opened PR [#3](https://github.com/BastiaanJansen/jwt-java/pull/3) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
+1. 💪 Opened PR [#3891](https://github.com/vuejs/awesome-vue/pull/3891) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+2. 🎉 Merged PR [#6](https://github.com/BastiaanJansen/simple-vue-camera/pull/6) in [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera)
+3. 🎉 Merged PR [#4](https://github.com/BastiaanJansen/jwt-java/pull/4) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
+4. 💪 Opened PR [#4](https://github.com/BastiaanJansen/jwt-java/pull/4) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
+5. 🎉 Merged PR [#3](https://github.com/BastiaanJansen/jwt-java/pull/3) in [BastiaanJansen/jwt-java](https://github.com/BastiaanJansen/jwt-java)
 <!--END_SECTION:activity-->
 
 <!--
