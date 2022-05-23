@@ -4,11 +4,11 @@ My name is Bastiaan Jansen and I am a Software Engineering student at University
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/BastiaanJansen/toast-swift/issues/9) in [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift)
-2. 🎉 Merged PR [#9](https://github.com/BastiaanJansen/toast-swift/pull/9) in [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift)
-3. 🗣 Commented on [#9](https://github.com/BastiaanJansen/simple-vue-camera/issues/9) in [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera)
-4. 🎉 Merged PR [#57](https://github.com/BastiaanJansen/otp-java/pull/57) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
-5. 💪 Opened PR [#57](https://github.com/BastiaanJansen/otp-java/pull/57) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
+1. 🗣 Commented on [#10](https://github.com/BastiaanJansen/simple-vue-camera/issues/10) in [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera)
+2. 🗣 Commented on [#9](https://github.com/BastiaanJansen/toast-swift/issues/9) in [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift)
+3. 🎉 Merged PR [#9](https://github.com/BastiaanJansen/toast-swift/pull/9) in [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift)
+4. 🗣 Commented on [#9](https://github.com/BastiaanJansen/simple-vue-camera/issues/9) in [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera)
+5. 🎉 Merged PR [#57](https://github.com/BastiaanJansen/otp-java/pull/57) in [BastiaanJansen/otp-java](https://github.com/BastiaanJansen/otp-java)
 <!--END_SECTION:activity-->
 
 <!--
